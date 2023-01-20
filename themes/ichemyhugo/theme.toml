@@ -4,14 +4,14 @@
 name = "Ichemyhugo"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
+description = "basic template design made by ichemy"
 homepage = "http://example.com/"
-tags = []
+tags = ["blog"]
 features = []
 min_version = "0.41.0"
 
 [author]
-  name = ""
+  name = "ichemy"
   homepage = ""
 
 # If porting an existing theme
